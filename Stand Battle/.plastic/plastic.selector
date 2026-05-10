@@ -1,0 +1,4 @@
+repository "Stand Battle/Stand Battle@20067520945364@cloud"
+  path "/"
+    br "/main"
+    co "/main"
